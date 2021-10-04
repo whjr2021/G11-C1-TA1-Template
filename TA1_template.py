@@ -8,7 +8,7 @@ pygame.init()
 screen = pygame.display.set_mode((400,600))
 
 # Create a rectangle for paddle object
-paddle = pygame.Rect(200,500,30,10)
+
 
 # Game loop
 while True:    
